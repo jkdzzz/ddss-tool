@@ -138,3 +138,7 @@ D:\Coding\DDSSTool\DDSSTool\obj\Release\DDSSTool.dll
 D:\Coding\DDSSTool\DDSSTool\obj\Release\DDSSTool.pdb
 D:\SteamLibrary\steamapps\common\Dale&Dawson\Mods\DDSSTool.dll
 D:\SteamLibrary\steamapps\common\Dale&Dawson\Mods\DDSSTool.pdb
+D:\Coding\ddss-tool\DDSSTool\obj\Release\DDSSTool.csproj.AssemblyReference.cache
+D:\Coding\ddss-tool\DDSSTool\obj\Release\DDSSTool.csproj.CoreCompileInputs.cache
+D:\Coding\ddss-tool\DDSSTool\obj\Release\DDSSTool.dll
+D:\Coding\ddss-tool\DDSSTool\obj\Release\DDSSTool.pdb

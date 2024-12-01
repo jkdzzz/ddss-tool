@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using DDSSTool; // The namespace of your mod class
 // ...
-[assembly: MelonInfo(typeof(ToolMain), "DDSS Tool", "1.2.0", "jkdz")]
+[assembly: MelonInfo(typeof(ToolMain), "DDSS Tool", "2.0.0", "jkdz")]
 [assembly: MelonGame("StripedPandaStudios", "DDSS")]
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information

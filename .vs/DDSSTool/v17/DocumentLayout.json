@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\DDSSTool\\",
+  "WorkspaceRootPath": "D:\\Coding\\ddss-tool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|d:\\coding\\ddsstool\\ddsstool\\toolmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|d:\\coding\\ddss-tool\\ddsstool\\toolmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\toolmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\trollpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\trollpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\trollpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\lobbypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\lobbypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\lobbypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\miscpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\miscpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\miscpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\documentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\documentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\documentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\panels\\esppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\ddss-tool\\ddsstool\\panels\\esppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\panels\\esppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|D:\\Coding\\DDSSTool\\ddsstool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069BED56-EADE-432F-A349-B211DACB64AA}|DDSSTool\\DDSSTool.csproj|solutionrelative:ddsstool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CameraSwitcher.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\CameraSwitcher.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\CameraSwitcher.cs",
               "RelativeDocumentMoniker": "DDSSTool\\CameraSwitcher.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\CameraSwitcher.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\CameraSwitcher.cs",
               "RelativeToolTip": "DDSSTool\\CameraSwitcher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ThirdPersonCamera.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\ThirdPersonCamera.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\ThirdPersonCamera.cs",
               "RelativeDocumentMoniker": "DDSSTool\\ThirdPersonCamera.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\ThirdPersonCamera.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\ThirdPersonCamera.cs",
               "RelativeToolTip": "DDSSTool\\ThirdPersonCamera.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DocumentPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\DocumentPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\DocumentPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\DocumentPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\DocumentPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\DocumentPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\DocumentPanel.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MiscPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\MiscPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\MiscPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\MiscPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\MiscPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\MiscPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\MiscPanel.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAmwFYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ESPPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\ESPPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\ESPPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\ESPPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\ESPPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\ESPPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\ESPPanel.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LobbyPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\LobbyPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\LobbyPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\LobbyPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\LobbyPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\LobbyPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\LobbyPanel.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAowJ8AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,24 +138,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TrollPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\TrollPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\TrollPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\TrollPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\TrollPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\TrollPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\TrollPanel.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwEkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T22:16:06.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T22:16:06.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ESP.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\ESP.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\ESP.cs",
               "RelativeDocumentMoniker": "DDSSTool\\ESP.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\ESP.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\ESP.cs",
               "RelativeToolTip": "DDSSTool\\ESP.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAowEwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Render.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Render.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Render.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Render.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Render.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Render.cs",
               "RelativeToolTip": "DDSSTool\\Render.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAcwF0AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,36 +174,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainPanel.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\MainPanel.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\MainPanel.cs",
               "RelativeDocumentMoniker": "DDSSTool\\Panels\\MainPanel.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Panels\\MainPanel.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Panels\\MainPanel.cs",
               "RelativeToolTip": "DDSSTool\\Panels\\MainPanel.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAswDUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T17:19:21.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "DDSSTool\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "DDSSTool\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T17:14:17.805Z"
+              "WhenOpened": "2024-11-22T17:19:21.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DDSSTool\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DDSSTool\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:14:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ToolMain.cs",
-              "DocumentMoniker": "D:\\Coding\\DDSSTool\\DDSSTool\\ToolMain.cs",
+              "DocumentMoniker": "D:\\Coding\\ddss-tool\\DDSSTool\\ToolMain.cs",
               "RelativeDocumentMoniker": "DDSSTool\\ToolMain.cs",
-              "ToolTip": "D:\\Coding\\DDSSTool\\DDSSTool\\ToolMain.cs",
+              "ToolTip": "D:\\Coding\\ddss-tool\\DDSSTool\\ToolMain.cs",
               "RelativeToolTip": "DDSSTool\\ToolMain.cs",
               "ViewState": "AgIAANoAAAAAAAAAAAAswPcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

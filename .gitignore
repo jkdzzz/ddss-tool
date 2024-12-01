@@ -1,0 +1,15 @@
+
+DDSSTool/obj
+DDSSTool/obj/
+.vs
+.vs/
+.vs/DDSSTool/v17/.suo
+.vs/DDSSTool/FileContentIndex/b7771f21-8cfc-4621-803d-ebf9f79fe491.vsidx
+.vs/DDSSTool/FileContentIndex/a247d4ce-f9e3-44fd-a26c-f04242747bdd.vsidx
+.vs/DDSSTool/FileContentIndex/793e36f6-4724-46e8-9538-cf168c07d7b0.vsidx
+.vs/DDSSTool/FileContentIndex/09e20e50-4316-4b4d-8230-a46a04b084d5.vsidx
+.vs/DDSSTool/v17/DocumentLayout.json
+DDSSTool/obj/Release/DDSSTool.csproj.FileListAbsolute.txt
+DDSSTool/obj/Release/DDSSTool.dll
+DDSSTool/obj/Release/DDSSTool.pdb
+DDSSTool/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
